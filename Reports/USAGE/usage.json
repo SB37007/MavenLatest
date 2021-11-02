@@ -1,0 +1,24 @@
+[
+  {
+    "source": "user launches application toolsqa in {string} browser",
+    "steps": [
+      {
+        "name": "user launches application toolsqa in \"crome\" browser",
+        "aggregatedDurations": {
+          "median": 11.64078915,
+          "average": 11.64078915
+        },
+        "durations": [
+          {
+            "duration": 12.4462941,
+            "location": "file:///G:/JAVASRC/MAVNDDV01/./src/test/resources/features/bankapp/unit_testing/UT_Fun_Elements.feature:14"
+          },
+          {
+            "duration": 10.8352842,
+            "location": "file:///G:/JAVASRC/MAVNDDV01/./src/test/resources/features/bankapp/unit_testing/UT_Fun_Forms.feature:14"
+          }
+        ]
+      }
+    ]
+  }
+]
